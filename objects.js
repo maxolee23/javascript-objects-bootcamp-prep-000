@@ -5,7 +5,7 @@ var playlist = {Slowdive: 'Alison', 'My Bloody Valentine': 'Sometimes'}
   return playlist
 }
 
-   updatePlaylist(playlist, "phil Ochs", "Here's to the State of Mississippi")
+   updatePlaylist(playlist, "Phil Ochs", "Here's to the State of Mississippi")
 
  function removeFromPlaylist(playlist, artistName) {
   delete playlist.Slowdive;

@@ -1,4 +1,4 @@
-var playlist = {Slowdive: 
+var playlist = {Slowdive: 'Al'
 
 }
 
